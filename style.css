@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 body{
     background-image: url(./assets/home/background-home-desktop.jpg);
     background-size: cover;
     color: white;
+    font-family: 'Playfair Display', serif;
 }
 .logo{
     position: absolute;
@@ -13,6 +15,7 @@ span{
     top: 10%;
     left: 11%;
     z-index: 100;
+    text-decoration: underline;
 }
 nav{
     background: rgba(255, 255, 255, 0.10);
@@ -36,6 +39,14 @@ nav ul li a{
 .text1{
     color: rgba(255, 255, 255, 0.377);
     position: absolute;
-    top: 55%;
+    top: 50%;
     left: 10%;
+    font-size: 46px;
+}
+strong{
+    position: absolute;
+    top: 63%;
+    left: 10%;
+    font-size: 66px;
+    letter-spacing: 10px;
 }
