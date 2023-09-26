@@ -77,3 +77,8 @@ nav ul li a{
     font-size: 18px;
 
 }
+img{
+    position: absolute;
+    top: 34%;
+    left: 55%;
+}
