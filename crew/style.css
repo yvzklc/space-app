@@ -34,3 +34,46 @@ nav ul li a{
     color: white;
     text-decoration: none;
 }
+
+.header-crew{
+    position: absolute;
+    top: 25%;
+    left: 8%;
+    letter-spacing: 3px;
+    font-weight: 300;
+    color: rgba(255, 255, 255, 0.815);
+}
+
+.header-crew span{
+    position: relative;
+    margin-right: 40px;
+    text-decoration: none;
+    color: gray;
+    font-weight: bold;
+    letter-spacing: 4px;
+}
+
+.text1{
+    color: rgba(255, 255, 255, 0.568);
+    position: absolute;
+    top: 46%;
+    left: 10%;
+    font-size: 46px;
+}
+.text2{
+    position: absolute;
+    top: 51%;
+    left: 10%;
+    font-size: 66px;
+    letter-spacing: 10px;
+}
+.text3{
+    color: rgba(255, 255, 255, 0.377);
+    position: absolute;
+    top: 68%;
+    left: 10%;
+    
+    line-height: 27px;
+    font-size: 18px;
+
+}
