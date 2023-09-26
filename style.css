@@ -37,16 +37,42 @@ nav ul li a{
     text-decoration: none;
 }
 .text1{
-    color: rgba(255, 255, 255, 0.377);
+    color: rgba(255, 255, 255, 0.568);
     position: absolute;
-    top: 50%;
+    top: 46%;
     left: 10%;
     font-size: 46px;
 }
-strong{
+.text2{
     position: absolute;
-    top: 63%;
+    top: 51%;
     left: 10%;
     font-size: 66px;
     letter-spacing: 10px;
+}
+.text3{
+    color: rgba(255, 255, 255, 0.377);
+    position: absolute;
+    top: 68%;
+    left: 10%;
+    
+    line-height: 27px;
+    font-size: 18px;
+
+}
+.exp-btn {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    top: 55%;
+    left: 55%;
+    text-align: center;
+}
+.exp-btn .text4{
+    color: black;
+    font-size: 50px;
+    padding-top: 30px;
+
 }
