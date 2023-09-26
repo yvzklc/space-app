@@ -1,0 +1,41 @@
+body{
+    background-image: url(./assets/home/background-home-desktop.jpg);
+    background-size: cover;
+    color: white;
+}
+.logo{
+    position: absolute;
+    top: 9%;
+    left: 5%;
+}
+span{
+    position: absolute;
+    top: 10%;
+    left: 11%;
+    z-index: 100;
+}
+nav{
+    background: rgba(255, 255, 255, 0.10);
+    backdrop-filter: blur(7px);
+    height: 100px;
+    float: right;
+    width: 50%;
+    margin-top: 50px;
+    
+}
+nav ul li{
+   
+    padding: 25px;
+    display: inline-block;
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+.text1{
+    color: rgba(255, 255, 255, 0.377);
+    position: absolute;
+    top: 55%;
+    left: 10%;
+}
