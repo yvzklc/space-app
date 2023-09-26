@@ -53,12 +53,12 @@ nav ul li a{
 }
 .mars{
     position: absolute;
-    top: 43%;
+    top: 40%;
     left: 15%;
 }
 .text2{
     position: absolute;
-    top: 46%;
+    top: 43%;
     left: 60%;
     font-size: 66px;
     letter-spacing: 10px;
@@ -66,7 +66,7 @@ nav ul li a{
 .text3{
     color: rgba(255, 255, 255, 0.664);
     position: absolute;
-    top: 64%;
+    top: 61%;
     left: 60%;
     line-height: 27px;
     font-size: 18px;
@@ -74,18 +74,18 @@ nav ul li a{
 }
 .under{
     position: absolute;
-    top: 80%;
+    top: 77%;
     left: 60%;
 }
 
 .info{
     position: absolute;
-    top: 80%;
+    top: 77%;
     left: 70%;
 }
 .info1{
     position: absolute;
-    top: 83%;
+    top: 80%;
     left: 63%;
 }
 .info1 span{
@@ -96,7 +96,7 @@ nav ul li a{
 }
 .info2{
     position: absolute;
-    top: 83%;
+    top: 80%;
     left: 78%;
 }
 
