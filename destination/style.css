@@ -77,3 +77,32 @@ nav ul li a{
     top: 80%;
     left: 60%;
 }
+
+.info{
+    position: absolute;
+    top: 80%;
+    left: 70%;
+}
+.info1{
+    position: absolute;
+    top: 83%;
+    left: 63%;
+}
+.info1 span{
+    position: relative;
+    font-size: 26px;
+    margin-left: -14px;
+    padding-top: 25px;
+}
+.info2{
+    position: absolute;
+    top: 83%;
+    left: 78%;
+}
+
+.info2 span{
+    position: relative;
+    font-size: 26px;
+    margin-left: -14px;
+    padding-top: 25px;
+}
